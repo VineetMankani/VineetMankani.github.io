@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b155cce.css",
+    "main.js": "/static/js/main.6786fdfc.js",
+    "static/media/treksforyou-screen.png": "/static/media/treksforyou-screen.1d1e5f41b16f06541f5d.png",
+    "static/media/fyspit-screen.jpg": "/static/media/fyspit-screen.c439bd6d66b9a1d9005a.jpg",
+    "static/media/autocad-logo.png": "/static/media/autocad-logo.25a9102f45e3d0360175.png",
+    "static/media/engvind-screen.png": "/static/media/engvind-screen.345c91aa1d6ffd108eec.png",
+    "static/media/me.png": "/static/media/me.13a5169920b89b265ce4.png",
+    "static/media/facetrack-screen.png": "/static/media/facetrack-screen.116178a2de4d077bed21.png",
+    "static/media/sports-enthusiast.webp": "/static/media/sports-enthusiast.5f3fbe8124bcc5e09877.webp",
+    "static/media/cpp-logo.png": "/static/media/cpp-logo.53bb9a47adf217ee6900.png",
+    "static/media/vbot-screen.png": "/static/media/vbot-screen.d13138e8eaae3abd857a.png",
+    "static/media/reactjs-logo.png": "/static/media/reactjs-logo.a544fd8cf64d82898e91.png",
+    "static/media/bs-logo.png": "/static/media/bs-logo.b0d6a1f8a6f2a08b7b46.png",
+    "static/media/inshot-logo.png": "/static/media/inshot-logo.80651c29ebba8231c07e.png",
+    "static/media/django-logo.png": "/static/media/django-logo.c3664659df4934db3051.png",
+    "static/media/amusify-screen-2.jpg": "/static/media/amusify-screen-2.6cf4a319c97db3ae47cf.jpg",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.94f290bcb6699d85892f.png",
+    "static/media/blender-logo.png": "/static/media/blender-logo.f077aabd563891408ce1.png",
+    "static/media/css-logo.png": "/static/media/css-logo.dfc2df3365ebc1bd30b3.png",
+    "static/media/mongodb-logo.png": "/static/media/mongodb-logo.d8d44d7b50c2442d56d1.png",
+    "static/media/expressjs-logo.png": "/static/media/expressjs-logo.1b475c93efe31bb465ed.png",
+    "static/media/web-developer.png": "/static/media/web-developer.bf6e321c9c524e5b50d3.png",
+    "static/media/nodejs-logo.png": "/static/media/nodejs-logo.938c89c36eeb8c84bf96.png",
+    "static/media/icon.png": "/static/media/icon.e1444fd6eedeebe2f766.png",
+    "static/media/video-editor.png": "/static/media/video-editor.ad2db86a4bc3e855fdbf.png",
+    "static/media/html-logo.png": "/static/media/html-logo.14e530b3975a34f84a63.png",
+    "index.html": "/index.html",
+    "static/media/js-logo.svg": "/static/media/js-logo.b879f838faf1cb951d1c2230fd933a39.svg",
+    "main.6b155cce.css.map": "/static/css/main.6b155cce.css.map",
+    "main.6786fdfc.js.map": "/static/js/main.6786fdfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b155cce.css",
+    "static/js/main.6786fdfc.js"
+  ]
+}
