@@ -1,0 +1,15 @@
+.navbar-toggler{
+    border: none;
+}
+
+.navbar-brand{
+    font-size: 1.15rem;
+}
+
+.navbar {
+    transition: 0.3s ease-in-out;
+}
+
+.bg {
+    background-color: #1a1a56;
+}

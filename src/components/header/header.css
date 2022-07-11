@@ -1,0 +1,102 @@
+header{
+    overflow: hidden;
+}
+
+header h1{
+    font-size: 3.2rem;
+    color: #FFF;
+}
+
+header h5{
+    font-size: 1.4rem;
+    color: #bbbbff;
+}
+
+.cta{
+    font-weight: 500;
+}
+
+.header-top{
+    padding-top: 6rem;
+}
+
+.header-bottom{
+    padding-bottom: 3.5rem;
+}
+
+.resume{
+    border: 1px solid #bbbbff;
+    color: #bbbbff;
+}
+
+.resume:hover{
+    background-color: #bbbbff;
+    border: 1px solid #bbbbff;
+    color: #000;
+}
+
+.contact{
+    background-color: #bbbbff;
+}
+
+.contact:hover{
+    background-color: transparent;
+    border: 1px solid #bbbbff;
+    color: #bbbbff;
+}
+
+.socialLinks svg{
+    fill: #bbbbff;
+    transition: all 400ms ease;
+}
+
+.socialLinks svg:hover{
+    fill: #FFF;
+}
+
+.socials::before, .socials::after{
+    content: "";
+    height: 2px;
+    width: 28vw;
+    background: #4db5ff;
+}
+
+.scrolldown:hover{
+    border: 1px solid black
+}
+
+.active{
+    font-weight: 500;
+}
+
+.tag{
+    font-size: 10rem;
+}
+
+@media screen and (max-width: 992px) {      /* Large */
+    header h1{
+        font-size: 3rem;
+    }
+    header h5{
+        font-size: 1.2rem;
+    }
+    .socials::before, .socials::after{
+        content: "";
+        height: 2.5px;
+        width: 14vw;
+    }
+}
+
+@media screen and (max-width: 576px) {      /* Small */
+    header h1{
+        font-size: 2.5rem;
+    }
+    header h5{
+        font-size: 1.1rem;
+    }
+    .socials::before, .socials::after{
+        content: "";
+        height: 0;
+        width: 0;
+    }    
+}

@@ -1,0 +1,53 @@
+.me img{
+    border-radius: 15px;
+    /* width: 90%; */
+    transition: all 400ms ease;
+}
+
+.a-card{
+    width: 10rem;
+    border: none;
+    transition: all 400ms ease;
+}
+
+.a-card img{
+    height: 10rem;
+    width: 10rem;
+    transition: all 400ms ease;
+}
+
+.card-footer{
+    font-size: 0.9rem;
+}
+
+.a-card:hover{
+    transform: scale(1.02);
+}
+
+.description{
+    font-size: 1rem;
+}
+
+@media screen and (max-width: 1200px) {      /* X Large */
+    .card{
+        width: 9rem;
+    }
+    .card img{
+        height: 9rem;
+        width: 9rem;
+    }
+    .card-footer{
+        font-size: 0.8rem;
+    }
+    .description{
+        font-size: 0.9rem;
+    }
+}
+
+@media screen and (max-width: 992px) {      /* Large */
+
+}
+
+@media screen and (max-width: 576px) {      /* Small */
+
+}
