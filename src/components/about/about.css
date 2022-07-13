@@ -1,7 +1,12 @@
 .me img{
-    border-radius: 15px;
-    /* width: 90%; */
+    border-radius: 10px;
+    width: 70%;
     transition: all 400ms ease;
+}
+
+.me img:hover{
+    box-shadow: 1px 1px 1px 1px #000;
+    transform: rotateY(-10deg);
 }
 
 .a-card{
@@ -42,12 +47,19 @@
     .description{
         font-size: 0.9rem;
     }
+    .me img{
+        width: 90%;
+    }
 }
 
 @media screen and (max-width: 992px) {      /* Large */
-
+    .me img{
+        display: none;
+    }
 }
 
 @media screen and (max-width: 576px) {      /* Small */
-
+    .me img{
+        display: none;
+    }
 }

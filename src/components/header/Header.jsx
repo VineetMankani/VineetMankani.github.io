@@ -10,7 +10,8 @@ const Header = () => {
             <div className="header-top mt-4">
                 <h5 className="p-0 m-0">Hey! I am</h5>
                 <h1 className="py-2 m-0">Vineet Mankani</h1>
-                <h5 className="p-0 m-0">{'< Fullstack Web Developer />'}</h5>
+                <h5 className="p-0 m-0">Third Year Student</h5>
+                <h6 className="pt-2 m-0">{'Aspiring < Fullstack Web Developer />'}</h6>
             </div>
             <div className="header-bottom">
                 <CTA />
